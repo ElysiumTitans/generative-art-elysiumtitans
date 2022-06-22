@@ -1,0 +1,36 @@
+{
+	"721": {
+		"<policy_id>": {
+			"CHAR001200": {
+				"attributes": {
+					"Armour Colour": "Jackal of Death - Variation #1",
+					"Armour Name": "Jackal of Death",
+					"Background": "Blue",
+					"Eyes / Mouth": "Death's Vow",
+					"God": "Anubis",
+					"Headwear": "Abed",
+					"Headwear Colour": "Abed - Variation #3",
+					"Pantheon": "Egyptian",
+					"Skin Tone": "Khaki",
+					"Weapon / Aura": "Embalming Spoon"
+				},
+				"description": "Your 1/9600 treasured Elysium Titan represents 1/24 characters.",
+				"files": [{
+					"mediaType": "image/png",
+					"name": "Elysium Titan #001200",
+					"src": "<ipfs_link>"
+				}],
+				"image": "<ipfs_link>",
+				"links": {
+					"Discord": "https://discord.gg/xxx",
+					"Twitter": "https://twitter.com/xxx",
+					"Website": "https://xxx.xxx/"
+				},
+				"mediaType": "image/png",
+				"name": "Elysium Titan #001200",
+				"seriesName": "Elysium Titans"
+			}
+		},
+		"version": "1.0"
+	}
+}
