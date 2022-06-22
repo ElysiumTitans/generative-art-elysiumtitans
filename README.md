@@ -15,48 +15,48 @@ Instructions for set up follow:
 ## Preparing the images
 There is a folder named `characters` - below is an example of the expected folder layout showcasing 2 image layers, the first image layer has 5 variations, the second has 5 variations and each variation has 5 different colours each
 
-# Layer One
-characters/CHAR1/1/A.png    <--- body --- skintone 1
-characters/CHAR1/1/B.png    <--- body --- skintone 2
-characters/CHAR1/1/C.png    <--- body --- skintone 3
-characters/CHAR1/1/D.png    <--- body --- skintone 4
-characters/CHAR1/1/E.png    <--- body --- skintone 5
+### Layer One
+- characters/CHAR1/1/A.png    <--- body --- skintone 1
+- characters/CHAR1/1/B.png    <--- body --- skintone 2
+- characters/CHAR1/1/C.png    <--- body --- skintone 3
+- characters/CHAR1/1/D.png    <--- body --- skintone 4
+- characters/CHAR1/1/E.png    <--- body --- skintone 5
 
-# Layer Two
-characters/CHAR1/2/1/A.png    <--- outfit one swimmer --- yellow
-characters/CHAR1/2/1/B.png    <--- outfit one swimmer --- red
-characters/CHAR1/2/1/C.png    <--- outfit one swimmer --- green
-characters/CHAR1/2/1/D.png    <--- outfit one swimmer --- blue
-characters/CHAR1/2/1/E.png    <--- outfit one swimmer --- black
+### Layer Two
+- characters/CHAR1/2/1/A.png    <--- outfit one swimmer --- yellow
+- characters/CHAR1/2/1/B.png    <--- outfit one swimmer --- red
+- characters/CHAR1/2/1/C.png    <--- outfit one swimmer --- green
+- characters/CHAR1/2/1/D.png    <--- outfit one swimmer --- blue
+- characters/CHAR1/2/1/E.png    <--- outfit one swimmer --- black
 
-characters/CHAR1/2/2/A.png    <--- outfit two sailor --- yellow
-characters/CHAR1/2/2/B.png    <--- outfit two sailor --- red
-characters/CHAR1/2/2/C.png    <--- outfit two sailor --- green
-characters/CHAR1/2/2/D.png    <--- outfit two sailor --- blue
-characters/CHAR1/2/2/E.png    <--- outfit two sailor --- black
+- characters/CHAR1/2/2/A.png    <--- outfit two sailor --- yellow
+- characters/CHAR1/2/2/B.png    <--- outfit two sailor --- red
+- characters/CHAR1/2/2/C.png    <--- outfit two sailor --- green
+- characters/CHAR1/2/2/D.png    <--- outfit two sailor --- blue
+- characters/CHAR1/2/2/E.png    <--- outfit two sailor --- black
 
-characters/CHAR1/2/3/A.png    <--- outfit three pirate --- yellow
-characters/CHAR1/2/3/B.png    <--- outfit three pirate --- red
-characters/CHAR1/2/3/C.png    <--- outfit three pirate --- green
-characters/CHAR1/2/3/D.png    <--- outfit three pirate --- blue
-characters/CHAR1/2/3/E.png    <--- outfit three pirate --- black
+- characters/CHAR1/2/3/A.png    <--- outfit three pirate --- yellow
+- characters/CHAR1/2/3/B.png    <--- outfit three pirate --- red
+- characters/CHAR1/2/3/C.png    <--- outfit three pirate --- green
+- characters/CHAR1/2/3/D.png    <--- outfit three pirate --- blue
+- characters/CHAR1/2/3/E.png    <--- outfit three pirate --- black
 
-characters/CHAR1/2/4/A.png    <--- outfit four lecturer --- yellow
-characters/CHAR1/2/4/B.png    <--- outfit four lecturer --- red
-characters/CHAR1/2/4/C.png    <--- outfit four lecturer --- green
-characters/CHAR1/2/4/D.png    <--- outfit four lecturer --- blue
-characters/CHAR1/2/4/E.png    <--- outfit four lecturer --- black
+- characters/CHAR1/2/4/A.png    <--- outfit four lecturer --- yellow
+- characters/CHAR1/2/4/B.png    <--- outfit four lecturer --- red
+- characters/CHAR1/2/4/C.png    <--- outfit four lecturer --- green
+- characters/CHAR1/2/4/D.png    <--- outfit four lecturer --- blue
+- characters/CHAR1/2/4/E.png    <--- outfit four lecturer --- black
 
-characters/CHAR1/2/5/A.png    <--- outfit five astronaut --- yellow
-characters/CHAR1/2/5/B.png    <--- outfit five astronaut --- red
-characters/CHAR1/2/5/C.png    <--- outfit five astronaut --- green
-characters/CHAR1/2/5/D.png    <--- outfit five astronaut --- blue
-characters/CHAR1/2/5/E.png    <--- outfit five astronaut --- black
+- characters/CHAR1/2/5/A.png    <--- outfit five astronaut --- yellow
+- characters/CHAR1/2/5/B.png    <--- outfit five astronaut --- red
+- characters/CHAR1/2/5/C.png    <--- outfit five astronaut --- green
+- characters/CHAR1/2/5/D.png    <--- outfit five astronaut --- blue
+- characters/CHAR1/2/5/E.png    <--- outfit five astronaut --- black
 
-# If you have backgrounds store them like so
-characters/backgrounds/1.png
-characters/backgrounds/2.png
-characters/backgrounds/3.png
+### If you have backgrounds store them like so
+- characters/backgrounds/1.png
+- characters/backgrounds/2.png
+- characters/backgrounds/3.png
 
 
 The program expects the images in this format so you'll either have to stick to it or modify the program to suit. 
